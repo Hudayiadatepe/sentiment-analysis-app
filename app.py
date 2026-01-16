@@ -30,7 +30,7 @@ st.sidebar.info("""
 - Scikit-learn
 - Python
 
-**Author:** [Your Name]  
+**Author:** Hudayi Hamza Adatepe
 [GitHub](https://github.com/yourusername)
 """)
 
